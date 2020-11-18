@@ -2,15 +2,27 @@
     "walletCard": [
         {
             "id": 1,
-            "name": "João Sotoriva",
-            "totalPortfolioValue": "8.008,00",
-            "percentageInvested": "29%"
+            "name": "Lucio Gomes",
+            "totalPortfolioValue": "8.050,00",
+            "percentageInvested": "35%"
         },
         {
             "id": 2,
-            "name": "Lucio Gomes",
-            "totalPortfolioValue": "9.008,00",
-            "percentageInvested": "32%"
+            "name": "João Sotoriva",
+            "totalPortfolioValue": "8.050,00",
+            "percentageInvested": "35%"
+        },
+        {
+            "id": 3,
+            "name": "Vinicius Alves",
+            "totalPortfolioValue": "5.060,00",
+            "percentageInvested": "22%"
+        },
+        {
+            "id": 4,
+            "name": "Jose Alberto",
+            "totalPortfolioValue": "2.070,00",
+            "percentageInvested": "8%"
         }
     ]
 }
