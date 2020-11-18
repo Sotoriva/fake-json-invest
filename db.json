@@ -5,6 +5,12 @@
       "name": "João Sotoriva",
       "totalPortfolioValue": "8.008,00",
       "percentageInvested": "29%"
+    },
+    {
+      "id": 2,
+      "name": "Lucio Gomes",
+      "totalPortfolioValue": "9.008,00",
+      "percentageInvested": "32%"
     }
   ]
 }
