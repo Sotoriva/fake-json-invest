@@ -37,6 +37,24 @@
             "id": 2,
             "name": "AAPL",
             "completeName": "Apple Inc.",
+            "amountInvested": 2800.92
+        },
+        {
+            "id": 3,
+            "name": "AMZN",
+            "completeName": "Amazon.com Inc.",
+            "amountInvested": 1760.45
+        },
+        {
+            "id": 4,
+            "name": "VVAR3",
+            "completeName": "Via Varejo",
+            "amountInvested": 160.03
+        },
+        {
+            "id": 5,
+            "name": "UGPA3",
+            "completeName": "Ultrapar",
             "amountInvested": 1360.73
         }
     ]
