@@ -3,25 +3,25 @@
         {
             "id": 1,
             "name": "Lucio Gomes",
-            "totalPortfolioValue": "8.050,00",
+            "totalPortfolioValue": 8050.00,
             "percentageInvested": 35.1
         },
         {
             "id": 2,
             "name": "João Sotoriva",
-            "totalPortfolioValue": "8.050,00",
+            "totalPortfolioValue": 8050.00,
             "percentageInvested": 35.1
         },
         {
             "id": 3,
             "name": "Vinicius Alves",
-            "totalPortfolioValue": "5.060,00",
+            "totalPortfolioValue": 5060.00,
             "percentageInvested": 22.1
         },
         {
             "id": 4,
             "name": "Jose Alberto",
-            "totalPortfolioValue": "2.070,00",
+            "totalPortfolioValue": 2070.00,
             "percentageInvested": 8.1
         }
     ]
