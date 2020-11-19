@@ -30,7 +30,14 @@
         {
             "id": 1,
             "name": "ITUB",
-            "completeName": "Itau Unibanco Banco Holding SA"
+            "completeName": "Itau Unibanco Banco Holding SA",
+            "amountInvested": 3978.08
+        },
+        {
+            "id": 2,
+            "name": "AAPL",
+            "completeName": "Apple Inc.",
+            "amountInvested": 1360.73
         }
     ]
 }
