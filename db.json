@@ -17,6 +17,12 @@
             "name": "Vinicius Alves",
             "totalPortfolioValue": 5060.01,
             "percentageInvested": 22.1
+        },
+        {
+            "id": 4,
+            "name": "Jose Alberto",
+            "totalPortfolioValue": 2070.01,
+            "percentageInvested": 8.1
         }
     ]
 }
