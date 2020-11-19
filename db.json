@@ -19,6 +19,11 @@
             "id": 4,
             "name": "Jose Alberto",
             "totalPortfolioValue": 2070.01
+        },
+        {
+            "id": 5,
+            "name": "Ana Almeida",
+            "totalPortfolioValue": 2070.01
         }
     ]
 }
