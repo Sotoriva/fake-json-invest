@@ -25,5 +25,12 @@
             "name": "Ana Almeida",
             "totalPortfolioValue": 2070.01
         }
+    ],
+    "individualPortifolio": [
+        {
+            "id": 1,
+            "name": "ITUB",
+            "completeName": "Itau Unibanco Banco Holding SA"
+        }
     ]
 }
