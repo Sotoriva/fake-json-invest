@@ -178,13 +178,6 @@
                     "completeName": "Ecorodovias",
                     "amountInvested": 880.01,
                     "profitPercentage": 8.60
-                },
-                {
-                    "id": 7,
-                    "name": "CIEL3",
-                    "completeName": "Cielo",
-                    "amountInvested": 160.01,
-                    "profitPercentage": 6.90
                 }
             ]
         }
