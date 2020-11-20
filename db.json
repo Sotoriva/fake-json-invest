@@ -278,61 +278,6 @@
                     "profitPercentage": 6.90
                 }
             ]
-        },
-        {
-            "id": 5,
-            "name": "Ana Almeida",
-            "wallet": [
-                {
-                    "id": 1,
-                    "name": "ITUB",
-                    "completeName": "Itau Unibanco Banco Holding SA",
-                    "amountInvested": 3978.08,
-                    "profitPercentage": 2.24
-                },
-                {
-                    "id": 2,
-                    "name": "AAPL",
-                    "completeName": "Apple Inc.",
-                    "amountInvested": 2800.92,
-                    "profitPercentage": 0.36
-                },
-                {
-                    "id": 3,
-                    "name": "AMZN",
-                    "completeName": "Amazon.com Inc.",
-                    "amountInvested": 1760.45,
-                    "profitPercentage": 0.68
-                },
-                {
-                    "id": 4,
-                    "name": "VVAR3",
-                    "completeName": "Via Varejo",
-                    "amountInvested": 160.03,
-                    "profitPercentage": 3.32
-                },
-                {
-                    "id": 5,
-                    "name": "UGPA3",
-                    "completeName": "Ultrapar",
-                    "amountInvested": 1360.71,
-                    "profitPercentage": 11.01
-                },
-                {
-                    "id": 6,
-                    "name": "ECOR3",
-                    "completeName": "Ecorodovias",
-                    "amountInvested": 880.01,
-                    "profitPercentage": 8.60
-                },
-                {
-                    "id": 7,
-                    "name": "CIEL3",
-                    "completeName": "Cielo",
-                    "amountInvested": 160.01,
-                    "profitPercentage": 6.90
-                }
-            ]
         }
     ]
 }
