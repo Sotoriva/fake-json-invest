@@ -108,13 +108,6 @@
             "name": "Vinicius Alves",
             "wallet": [
                 {
-                    "id": 1,
-                    "name": "ITUB",
-                    "completeName": "Itau Unibanco Banco Holding SA",
-                    "amountInvested": 3978.08,
-                    "profitPercentage": 2.24
-                },
-                {
                     "id": 2,
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
