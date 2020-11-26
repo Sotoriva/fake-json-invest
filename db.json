@@ -9,28 +9,116 @@
                     "name": "ITUB",
                     "completeName": "Itau Unibanco Banco Holding SA",
                     "amountInvested": 3978.08,
-                    "profitPercentage": 2.24
+                    "profitPercentage": 2.24,
+                    "historic": [
+                        {
+                            "updateDate": "05/11/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/10/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/09/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/08/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
                     "amountInvested": 2800.92,
-                    "profitPercentage": 0.36
+                    "profitPercentage": 0.36,
+                    "historic": [
+                        {
+                            "updateDate": "05/11/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/10/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/09/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/08/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "AMZN",
                     "completeName": "Amazon.com Inc.",
                     "amountInvested": 1760.45,
-                    "profitPercentage": 0.68
+                    "profitPercentage": 0.68,
+                    "historic": [
+                        {
+                            "updateDate": "05/11/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/10/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/09/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/08/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "VVAR3",
                     "completeName": "Via Varejo",
                     "amountInvested": 160.03,
-                    "profitPercentage": 3.32
+                    "profitPercentage": 3.32,
+                    "historic": [
+                        {
+                            "updateDate": "05/11/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/10/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/09/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "05/08/2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 },
                 {
                     "id": 5,
