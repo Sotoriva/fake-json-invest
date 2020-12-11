@@ -12,42 +12,42 @@
                     "profitPercentage": 2.24,
                     "historic": [
                         {
-                            "updateDate": "20201105",
+                            "updateDate": "2020-11-05",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         },
                         {
-                            "updateDate": "20201005",
+                            "updateDate": "2020-10-05",
                             "realValue": 2800.92,
                             "calculedValue": 2811.0001
                         },
                         {
-                            "updateDate": "20200905",
+                            "updateDate": "2020-09-05",
                             "realValue": 1760.45,
                             "calculedValue": 1772.42
                         },
                         {
-                            "updateDate": "20200805",
+                            "updateDate": "2020-08-05",
                             "realValue": 160.03,
                             "calculedValue": 165.34
                         },
                         {
-                            "updateDate": "20200705",
+                            "updateDate": "2020-07-05",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         },
                         {
-                            "updateDate": "20200605",
+                            "updateDate": "2020-06-05",
                             "realValue": 2800.92,
                             "calculedValue": 2811.0001
                         },
                         {
-                            "updateDate": "20200505",
+                            "updateDate": "2020-05-05",
                             "realValue": 1760.45,
                             "calculedValue": 1772.42
                         },
                         {
-                            "updateDate": "20200405",
+                            "updateDate": "2020-04-05",
                             "realValue": 160.03,
                             "calculedValue": 165.34
                         }
@@ -61,7 +61,7 @@
                     "profitPercentage": 0.36,
                     "historic": [
                         {
-                            "updateDate": "05/11/2020",
+                            "updateDate": "05-11-2020",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         },
