@@ -255,17 +255,125 @@
         {
             "id": 4,
             "name": "Teste 01",
-            "wallet": []
+            "wallet": [
+                {
+                    "id": 2,
+                    "name": "AAPL",
+                    "completeName": "Apple Inc.",
+                    "amountInvested": 2800.92,
+                    "profitPercentage": 0.36
+                },
+                {
+                    "id": 3,
+                    "name": "AMZN",
+                    "completeName": "Amazon.com Inc.",
+                    "amountInvested": 1760.45,
+                    "profitPercentage": 0.68
+                },
+                {
+                    "id": 4,
+                    "name": "VVAR3",
+                    "completeName": "Via Varejo",
+                    "amountInvested": 160.03,
+                    "profitPercentage": 3.32
+                },
+                {
+                    "id": 5,
+                    "name": "UGPA3",
+                    "completeName": "Ultrapar",
+                    "amountInvested": 1360.71,
+                    "profitPercentage": 11.01
+                },
+                {
+                    "id": 6,
+                    "name": "ECOR3",
+                    "completeName": "Ecorodovias",
+                    "amountInvested": 880.01,
+                    "profitPercentage": 8.60
+                }
+            ]
         },
         {
             "id": 5,
             "name": "Teste 02",
-            "wallet": []
+            "wallet": [
+                {
+                    "id": 2,
+                    "name": "AAPL",
+                    "completeName": "Apple Inc.",
+                    "amountInvested": 2800.92,
+                    "profitPercentage": 0.36
+                },
+                {
+                    "id": 3,
+                    "name": "AMZN",
+                    "completeName": "Amazon.com Inc.",
+                    "amountInvested": 1760.45,
+                    "profitPercentage": 0.68
+                },
+                {
+                    "id": 4,
+                    "name": "VVAR3",
+                    "completeName": "Via Varejo",
+                    "amountInvested": 160.03,
+                    "profitPercentage": 3.32
+                },
+                {
+                    "id": 5,
+                    "name": "UGPA3",
+                    "completeName": "Ultrapar",
+                    "amountInvested": 1360.71,
+                    "profitPercentage": 11.01
+                },
+                {
+                    "id": 6,
+                    "name": "ECOR3",
+                    "completeName": "Ecorodovias",
+                    "amountInvested": 880.01,
+                    "profitPercentage": 8.60
+                }
+            ]
         },
         {
             "id": 6,
             "name": "Teste 03",
-            "wallet": []
+            "wallet": [
+                {
+                    "id": 2,
+                    "name": "AAPL",
+                    "completeName": "Apple Inc.",
+                    "amountInvested": 2800.92,
+                    "profitPercentage": 0.36
+                },
+                {
+                    "id": 3,
+                    "name": "AMZN",
+                    "completeName": "Amazon.com Inc.",
+                    "amountInvested": 1760.45,
+                    "profitPercentage": 0.68
+                },
+                {
+                    "id": 4,
+                    "name": "VVAR3",
+                    "completeName": "Via Varejo",
+                    "amountInvested": 160.03,
+                    "profitPercentage": 3.32
+                },
+                {
+                    "id": 5,
+                    "name": "UGPA3",
+                    "completeName": "Ultrapar",
+                    "amountInvested": 1360.71,
+                    "profitPercentage": 11.01
+                },
+                {
+                    "id": 6,
+                    "name": "ECOR3",
+                    "completeName": "Ecorodovias",
+                    "amountInvested": 880.01,
+                    "profitPercentage": 8.60
+                }
+            ]
         }
     ]
 }
