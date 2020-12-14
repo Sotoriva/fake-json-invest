@@ -251,6 +251,21 @@
                     "profitPercentage": 8.60
                 }
             ]
+        },
+        {
+            "id": 4,
+            "name": "Teste 01",
+            "wallet": []
+        },
+        {
+            "id": 5,
+            "name": "Teste 02",
+            "wallet": []
+        },
+        {
+            "id": 6,
+            "name": "Teste 03",
+            "wallet": []
         }
     ]
 }
