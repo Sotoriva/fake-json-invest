@@ -89,22 +89,22 @@
                     "profitPercentage": 3.32,
                     "historic": [
                         {
-                            "updateDate": "05/11/2020",
+                            "updateDate": "05-11-2020",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         },
                         {
-                            "updateDate": "05/10/2020",
+                            "updateDate": "05-10-2020",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         },
                         {
-                            "updateDate": "05/09/2020",
+                            "updateDate": "05-09-2020",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         },
                         {
-                            "updateDate": "05/08/2020",
+                            "updateDate": "05-08-2020",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         }
@@ -115,21 +115,42 @@
                     "name": "UGPA3",
                     "completeName": "Ultrapar",
                     "amountInvested": 1360.71,
-                    "profitPercentage": 11.01
+                    "profitPercentage": 11.01,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "ECOR3",
                     "completeName": "Ecorodovias",
                     "amountInvested": 880.01,
-                    "profitPercentage": 8.60
+                    "profitPercentage": 8.60,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "CIEL3",
                     "completeName": "Cielo",
                     "amountInvested": 160.01,
-                    "profitPercentage": 6.90
+                    "profitPercentage": 6.90,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 }
             ]
         },
@@ -142,7 +163,14 @@
                     "name": "ITUB",
                     "completeName": "Itau Unibanco Banco Holding SA",
                     "amountInvested": 3978.08,
-                    "profitPercentage": 2.24
+                    "profitPercentage": 2.24,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 }
             ]
         },
@@ -155,7 +183,14 @@
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
                     "amountInvested": 2800.92,
-                    "profitPercentage": 0.36
+                    "profitPercentage": 0.36,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 }
             ]
         },
@@ -168,7 +203,14 @@
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
                     "amountInvested": 2800.92,
-                    "profitPercentage": 0.36
+                    "profitPercentage": 0.36,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 }
             ]
         },
@@ -181,7 +223,14 @@
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
                     "amountInvested": 2800.92,
-                    "profitPercentage": 0.36
+                    "profitPercentage": 0.36,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 }
             ]
         },
@@ -194,7 +243,14 @@
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
                     "amountInvested": 2800.92,
-                    "profitPercentage": 0.36
+                    "profitPercentage": 0.36,
+                    "historic": [
+                        {
+                            "updateDate": "05-08-2020",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        }
+                    ]
                 }
             ]
         }
