@@ -225,11 +225,7 @@
                     "amountInvested": 2800.92,
                     "profitPercentage": 0.36,
                     "historic": [
-                        {
-                            "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
-                            "calculedValue": 4067.19
-                        }
+                        
                     ]
                 }
             ]
@@ -245,11 +241,7 @@
                     "amountInvested": 2800.92,
                     "profitPercentage": 0.36,
                     "historic": [
-                        {
-                            "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
-                            "calculedValue": 4067.19
-                        }
+                        
                     ]
                 }
             ]
