@@ -40,16 +40,6 @@
                             "updateDate": "2020-06-05",
                             "realValue": 2800.92,
                             "calculedValue": 2811.0001
-                        },
-                        {
-                            "updateDate": "2020-05-05",
-                            "realValue": 1760.45,
-                            "calculedValue": 1772.42
-                        },
-                        {
-                            "updateDate": "2020-04-05",
-                            "realValue": 160.03,
-                            "calculedValue": 165.34
                         }
                     ]
                 },
