@@ -69,6 +69,11 @@
                             "updateDate": "1969-06-20",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "1969-05-20",
+                            "realValue": 0.00,
+                            "calculedValue": 0.00
                         }
                     ]
                 },
