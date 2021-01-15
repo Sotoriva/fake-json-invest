@@ -88,6 +88,11 @@
                             "updateDate": "2020-11-05",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "2020-10-20",
+                            "realValue": 0.00,
+                            "calculedValue": 0.00
                         }
                     ]
                 },
@@ -112,6 +117,11 @@
                             "updateDate": "2020-09-05",
                             "realValue": 1760.45,
                             "calculedValue": 1772.42
+                        },
+                        {
+                            "updateDate": "2020-08-20",
+                            "realValue": 0.00,
+                            "calculedValue": 0.00
                         }
                     ]
                 },
@@ -126,6 +136,11 @@
                             "updateDate": "2020-11-05",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "2020-10-20",
+                            "realValue": 0.00,
+                            "calculedValue": 0.00
                         }
                     ]
                 },
@@ -154,6 +169,11 @@
                             "updateDate": "2020-11-05",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "2020-10-20",
+                            "realValue": 0.00,
+                            "calculedValue": 0.00
                         }
                     ]
                 }
