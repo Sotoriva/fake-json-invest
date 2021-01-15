@@ -30,16 +30,6 @@
                             "updateDate": "2020-08-05",
                             "realValue": 160.03,
                             "calculedValue": 165.34
-                        },
-                        {
-                            "updateDate": "2020-07-05",
-                            "realValue": 3978.08,
-                            "calculedValue": 4067.19
-                        },
-                        {
-                            "updateDate": "2020-06-05",
-                            "realValue": 2800.92,
-                            "calculedValue": 2811.0001
                         }
                     ]
                 },
@@ -56,7 +46,7 @@
                             "calculedValue": 4067.19
                         },
                         {
-                            "updateDate": "1969-05-20",
+                            "updateDate": "1969-06-20",
                             "realValue": 0.00,
                             "calculedValue": 0.00
                         }
@@ -99,7 +89,7 @@
                             "calculedValue": 2811.0001
                         },
                         {
-                            "updateDate": "2020-08-20",
+                            "updateDate": "2020-09-20",
                             "realValue": 0.00,
                             "calculedValue": 0.00
                         }
@@ -194,11 +184,6 @@
                             "updateDate": "2020-08-05",
                             "realValue": 160.03,
                             "calculedValue": 165.34
-                        },
-                        {
-                            "updateDate": "2020-07-05",
-                            "realValue": 3978.08,
-                            "calculedValue": 4067.19
                         }
                     ]
                 },
@@ -218,11 +203,6 @@
                             "updateDate": "2020-10-05",
                             "realValue": 2800.92,
                             "calculedValue": 2811.0001
-                        },
-                        {
-                            "updateDate": "2020-09-05",
-                            "realValue": 1760.45,
-                            "calculedValue": 1772.42
                         }
                     ]
                 }
