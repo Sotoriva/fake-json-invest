@@ -61,7 +61,12 @@
                     "profitPercentage": 0.36,
                     "historic": [
                         {
-                            "updateDate": "1969-07-20 20:18:04Z",
+                            "updateDate": "1969-07-20",
+                            "realValue": 3978.08,
+                            "calculedValue": 4067.19
+                        },
+                        {
+                            "updateDate": "1969-06-20",
                             "realValue": 3978.08,
                             "calculedValue": 4067.19
                         }
