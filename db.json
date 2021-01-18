@@ -37,12 +37,12 @@
                     "id": 2,
                     "name": "AAPL",
                     "completeName": "Apple Inc.",
-                    "amountInvested": 2800.92,
+                    "amountInvested": 234567.92,
                     "profitPercentage": 0.36,
                     "historic": [
                         {
                             "updateDate": "1969-07-20",
-                            "realValue": 3978.08,
+                            "realValue": 234567.08,
                             "calculedValue": 4067.19
                         },
                         {
@@ -56,12 +56,12 @@
                     "id": 3,
                     "name": "AMZN",
                     "completeName": "Amazon.com Inc.",
-                    "amountInvested": 1760.45,
+                    "amountInvested": 234567.45,
                     "profitPercentage": 0.68,
                     "historic": [
                         {
                             "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
+                            "realValue": 234567.08,
                             "calculedValue": 4067.19
                         },
                         {
@@ -75,19 +75,14 @@
                     "id": 4,
                     "name": "VVAR3",
                     "completeName": "Via Varejo",
-                    "amountInvested": 160.03,
+                    "amountInvested": 24567.03,
                     "profitPercentage": 3.32,
                     "historic": [
                         {
                             "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
+                            "realValue": 24567.08,
                             "calculedValue": 4067.19
-                        },
-                        {
-                            "updateDate": "2020-10-05",
-                            "realValue": 2800.92,
-                            "calculedValue": 2811.0001
-                        },
+                        }
                         {
                             "updateDate": "2020-09-20",
                             "realValue": 0.00,
@@ -99,12 +94,12 @@
                     "id": 5,
                     "name": "UGPA3",
                     "completeName": "Ultrapar",
-                    "amountInvested": 1360.71,
+                    "amountInvested": 34567.71,
                     "profitPercentage": 11.01,
                     "historic": [
                         {
                             "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
+                            "realValue": 34567.08,
                             "calculedValue": 4067.19
                         },
                         {
@@ -118,12 +113,12 @@
                     "id": 6,
                     "name": "ECOR3",
                     "completeName": "Ecorodovias",
-                    "amountInvested": 880.01,
+                    "amountInvested": 14567.01,
                     "profitPercentage": 8.60,
                     "historic": [
                         {
                             "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
+                            "realValue": 14567.08,
                             "calculedValue": 4067.19
                         },
                         {
@@ -137,12 +132,12 @@
                     "id": 7,
                     "name": "CIEL3",
                     "completeName": "Cielo",
-                    "amountInvested": 160.01,
+                    "amountInvested": 9567.01,
                     "profitPercentage": 6.90,
                     "historic": [
                         {
                             "updateDate": "2020-11-05",
-                            "realValue": 3978.08,
+                            "realValue": 9567.08,
                             "calculedValue": 4067.19
                         },
                         {
