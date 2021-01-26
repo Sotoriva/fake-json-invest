@@ -206,7 +206,22 @@
         {
             "id": 3,
             "name": "Carteira 3",
-            "wallet": []
+            "wallet": [
+      {
+        "id": 1,
+        "name": "VVAR3",
+        "completeName": "Via Varejo",
+        "amountInvested": 160.03,
+        "profitPercentage": 3.32,
+        "historic": [
+          {
+            "updateDate": "2020-10-05",
+            "realValue": 2800.92,
+            "calculedValue": 2811.0001
+          }
+        ]
+      }
+            ]
         }
     ]
 }
